@@ -1,4 +1,5 @@
-const backendDomin = "http://localhost:8080"
+// const backendDomin = "http://localhost:8080"
+const backendDomin = process.env.NEXT_APP_SEVER_BASE_URL
 
 const SummaryApi = {
     signUP : {
