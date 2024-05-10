@@ -1,6 +1,6 @@
 // const backendDomin = "http://localhost:4000"
 // const backendDomin = process.env.NEXT_APP_SEVER_BASE_URL
-const backendDomin = "http://65.2.37.169:4000/"
+const backendDomin = "http://65.2.37.169:4000"
 
 const SummaryApi = {
     signUP : {
